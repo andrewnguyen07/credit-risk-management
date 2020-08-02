@@ -1,6 +1,6 @@
 # Credit Risk Management Project
 
-Credit Score Cards are one of the common risk control methods in the financial industry which uses perfornal information and transactional records to identify and evaluate the creditworthiness of existing and potential customers. There are a number of different use cases leveraging this measure such as loan management, credit card approval, credit limit extension, etc. 
+Credit Score Cards are one of the common risk control methods in the financial industry which uses personal information and transactional records to identify and evaluate the creditworthiness of existing and potential customers. There are a number of different use cases leveraging this measure such as loan management, credit card approval, credit limit extension, etc. 
 
 That said, this project's applicability varies depending on the problem a financial institution is facing. The core engine which makes this project usable is the processing and transformation of input data to engender high predictability of the output that best addresses the issues. 
 
