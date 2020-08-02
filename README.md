@@ -26,4 +26,4 @@ The dataset used in this project is shared publicly via [Kaggle](https://www.kag
 
 1. Explanatory Data Analysis (EDA) and Feature Engineering
 2. Feature Scaling and Selection (+ Imbalanced Data Handling)
-3. Machine Learning Modeling 
+3. Machine Learning Modelling 
